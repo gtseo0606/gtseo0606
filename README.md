@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+* 이름 : 서근태
 
+* 이메일 : rmsxo0606@naver.com
+
+* 관심 분야 : 데이터 분석, Vision
+
+* 학력
+  * 단국대학교 응용통계학과 학사 (졸)
+
+* 데이터 분석 대회
 |대회명|대회|순위|상위|
 |------|---|---|---|
 |[쇼핑몰 지점별 매출액 예측 경진대회](https://github.com/gtseo0606/Learned/tree/main/Dacon/%EC%87%BC%ED%95%91%EB%AA%B0%20%EC%A7%80%EC%A0%90%EB%B3%84%20%EB%A7%A4%EC%B6%9C%EC%95%A1%20%EC%98%88%EC%B8%A1%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)|Dacon|2/694|2등 수상|
