@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 이메일 : rmsxo0606@naver.com
 
-* 관심 분야 : 데이터 분석, Vision
+* 관심 분야 : 데이터 분석, 개발, Vision
 
 * 학력
   * 단국대학교 응용통계학과 학사 (졸)
