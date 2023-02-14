@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * 학력
   * 단국대학교 응용통계학과 학사 (졸)
 
-* 데이터 분석 대회(현 상위 0.99%)
+* 데이터 분석 대회(현 상위 0.8%)
 
 |대회명|대회|순위|상위|
 |------|---|---|---|
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 |[자율주행 센서의 안테나 성능 예측](https://github.com/gtseo0606/Learned/tree/main/Dacon/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%84%BC%EC%84%9C%EC%9D%98%20%EC%95%88%ED%85%8C%EB%82%98%20%EC%84%B1%EB%8A%A5%20%EC%98%88%EC%B8%A1)|LG|371/975|38%|
 |[따릉이 대여량 예측](https://github.com/gtseo0606/Learned/tree/main/Dacon/%EB%8B%A8%EA%B5%AD%EB%8C%80%20%EB%94%B0%EB%A6%89%EC%9D%B4%20%EB%8C%80%EC%97%AC%EB%9F%89%20%EC%98%88%EC%B8%A1)|단국대|36/94|30%|
 |[인공지능 비트 트레이더 경진대회]()|Dacon|19/91|20%|
-|[TV 손동작 제어 인식 AI 경진대회]()|Dacon|32/410|-%|
+|[TV 손동작 제어 인식 AI 경진대회]()|Dacon|32/428|-%|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtseo0606&show_icons=true&theme=radical)
 
