@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 * 관심 분야 : 데이터 분석, 개발, Vision
 
+* 경력
+  * 소프트웨어/머신러닝 엔지니어
+  
 * 학력
   * 단국대학교 응용통계학과 학사 (졸)
 
