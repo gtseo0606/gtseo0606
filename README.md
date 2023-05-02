@@ -19,7 +19,15 @@ Here are some ideas to get you started:
 
 * 이메일 : rmsxo0606@naver.com
 
-* 관심 분야 : 데이터 분석, 개발, Vision
+* 관심 분야 : 데이터 분석/시각화, 개발, Vision
+
+|------|---|
+|BackEnd|Python, C, C++, Java|
+|Data Analysis|R, SPSS, Google Analytics4|
+|Data Visualization|Tableau, Power BI|
+|DevOps |BigQuery, MYSQL, MariaDB, Oracle, sqlite3, MongoDB|
+
+
 
 * 경력
   * 소프트웨어/머신러닝 엔지니어
