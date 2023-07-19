@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 |BackEnd|Python, C, C++, Java|
 |Data Analysis|R, SPSS, Google Analytics4|
 |Data Visualization|Tableau, Power BI|
-|SQL/NoSQL|BigQuery, MYSQL, MariaDB, Oracle, sqlite3, MongoDB|
+|SQL/NoSQL|BigQuery, MYSQL, MariaDB, Oracle, sqlite3, MongoDB, DB2, MS SQL SERVER|
+|BackEnd|Tensorflow, Pytorch|
 
 
 
